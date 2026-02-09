@@ -1,8 +1,9 @@
 ### Requirements
-- Plain orange webpage
+- Plain purple webpage
 
 ### Designs
-- Simple orange background covering entire viewport
+- Simple purple background covering entire viewport
 
 ### Tasks
 - [x] Create orange webpage with design system
+- [x] Change background to purple
